@@ -1,0 +1,33 @@
+.contact {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+.button {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.card {
+  margin-top: 20px;
+  margin-right: 100px;
+  text-align: center;
+  width: 100%;
+  background-color: cadetblue;
+}
+.card-text {
+  font-size: large;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  color: white;
+}
+.buttonDanger {
+  margin-right: 40px;
+}
+.btn-warning {
+  margin-left: 40px;
+}
+.btn-success {
+  margin-top: 30px;
+  margin-left: 620px;
+}

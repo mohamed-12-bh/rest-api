@@ -1,0 +1,12 @@
+.list {
+  margin-top: 50px;
+  text-align: center;
+  color:white;
+  
+}
+.app {
+  display: flex;
+  flex-direction: column;
+  background-color: #004d38;
+  height: 650px;
+}
